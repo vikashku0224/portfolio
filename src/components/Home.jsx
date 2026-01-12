@@ -33,7 +33,7 @@ export default function Home() {
               {/* Style will be inherited from the parent element */}
               <Typewriter
                 words={[
-                  "Devloper",
+                  "Devleoper",
                   "Frontend Developer",
                   "Open Source Contributor",
                 ]}
